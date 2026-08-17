@@ -63,5 +63,5 @@ main.py                  # Main script
 shap_summary.png         # Model insights (optional)  
 ## Project by
 
-Putturu Ekambaram Reddy
+S Prithika
 Aspiring Software Engineer / Machine Learning Enthusiast
